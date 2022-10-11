@@ -1,0 +1,15 @@
+G:\Visual Studio\source\repos\AkConsole\bin\Debug\net6.0\AkConsole.exe
+G:\Visual Studio\source\repos\AkConsole\bin\Debug\net6.0\AkConsole.deps.json
+G:\Visual Studio\source\repos\AkConsole\bin\Debug\net6.0\AkConsole.runtimeconfig.json
+G:\Visual Studio\source\repos\AkConsole\bin\Debug\net6.0\AkConsole.dll
+G:\Visual Studio\source\repos\AkConsole\bin\Debug\net6.0\AkConsole.pdb
+G:\Visual Studio\source\repos\AkConsole\obj\Debug\net6.0\AkConsole.csproj.AssemblyReference.cache
+G:\Visual Studio\source\repos\AkConsole\obj\Debug\net6.0\AkConsole.GeneratedMSBuildEditorConfig.editorconfig
+G:\Visual Studio\source\repos\AkConsole\obj\Debug\net6.0\AkConsole.AssemblyInfoInputs.cache
+G:\Visual Studio\source\repos\AkConsole\obj\Debug\net6.0\AkConsole.AssemblyInfo.cs
+G:\Visual Studio\source\repos\AkConsole\obj\Debug\net6.0\AkConsole.csproj.CoreCompileInputs.cache
+G:\Visual Studio\source\repos\AkConsole\obj\Debug\net6.0\AkConsole.dll
+G:\Visual Studio\source\repos\AkConsole\obj\Debug\net6.0\refint\AkConsole.dll
+G:\Visual Studio\source\repos\AkConsole\obj\Debug\net6.0\AkConsole.pdb
+G:\Visual Studio\source\repos\AkConsole\obj\Debug\net6.0\AkConsole.genruntimeconfig.cache
+G:\Visual Studio\source\repos\AkConsole\obj\Debug\net6.0\ref\AkConsole.dll
