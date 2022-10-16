@@ -13,3 +13,6 @@ G:\Visual Studio\source\repos\AkConsole\obj\Debug\net6.0\refint\AkConsole.dll
 G:\Visual Studio\source\repos\AkConsole\obj\Debug\net6.0\AkConsole.pdb
 G:\Visual Studio\source\repos\AkConsole\obj\Debug\net6.0\AkConsole.genruntimeconfig.cache
 G:\Visual Studio\source\repos\AkConsole\obj\Debug\net6.0\ref\AkConsole.dll
+G:\Visual Studio\source\repos\AkConsole\bin\Debug\net6.0\AkSDK.dll
+G:\Visual Studio\source\repos\AkConsole\bin\Debug\net6.0\AkSDK.pdb
+G:\Visual Studio\source\repos\AkConsole\obj\Debug\net6.0\AkConsole.csproj.CopyComplete

@@ -13,11 +13,21 @@
         "runtime": {
           "AkConsole.dll": {}
         }
+      },
+      "AkSDK/1.0.0": {
+        "runtime": {
+          "AkSDK.dll": {}
+        }
       }
     }
   },
   "libraries": {
     "AkConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AkSDK/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
